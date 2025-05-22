@@ -37,8 +37,17 @@ function App() {
 
   return (
     <div className="app">
-      <h1>🚗Working Car Memory Game</h1>
-      <Scoreboard score={score} bestScore={bestScore} />
+      <div className="header">
+        <div className="header-left-section">
+          <h1>🚗Working Car Memory Game</h1>
+          <p className="game-instructions">
+            Get points by clicking on an image but don't click on any more than once!
+          </p>
+        </div>
+        <div className="header-right-section">
+          <Scoreboard score={score} bestScore={bestScore} />
+        </div>
+      </div>
       <div className="card-grid">
         {cards.map((car) => (
           <Card
