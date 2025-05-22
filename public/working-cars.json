@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Fire Truck",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nago_Okinawa_Morita-Fire-Fighting-Truck-02.jpg/640px-Nago_Okinawa_Morita-Fire-Fighting-Truck-02.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Ambulance",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Nago_Okinawa_Ambulance-02.jpg/640px-Nago_Okinawa_Ambulance-02.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Police Car",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Japanese_police_car_1.jpg/640px-Japanese_police_car_1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Garbage Truck",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Naha_Okinawa_Japan_Garbage-truck-01.jpg/640px-Naha_Okinawa_Japan_Garbage-truck-01.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tow Truck",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Naha_Okinawa_Japan_JAF-Towing-car-01.jpg/640px-Naha_Okinawa_Japan_JAF-Towing-car-01.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Delivery Van",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Seino_Transportation_Air_Cargo_01521_Dutro_Hybrid_dry_van_%28Right%29.jpg/640px-Seino_Transportation_Air_Cargo_01521_Dutro_Hybrid_dry_van_%28Right%29.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Construction Truck",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Hino_Profia_rigid_tilting_sidewall_truck%2C_Yashio.jpg/640px-Hino_Profia_rigid_tilting_sidewall_truck%2C_Yashio.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Airport Shuttle Bus",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Okayama_Airport_Shuttle_Bus_80-92.jpg/640px-Okayama_Airport_Shuttle_Bus_80-92.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Street Sweeper",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Street_sweeper_-_Japan_-_Nov_2014.jpg/640px-Street_sweeper_-_Japan_-_Nov_2014.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Cement Mixer",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/ISUZU_FORWARD%2C_Cement_Mixer_Truck%2C_Light_Green.jpg/640px-ISUZU_FORWARD%2C_Cement_Mixer_Truck%2C_Light_Green.jpg"
+  }
+]

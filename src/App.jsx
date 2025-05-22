@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react';
 import './App.css';
-import workingCars from './data';
 import Card from './components/Card';
 import Scoreboard from './components/Scoreboard';
 
@@ -16,7 +15,10 @@ function App() {
   const [bestScore, setBestScore] = useState(0);
 
   useEffect(() => {
-    setCards(shuffle(workingCars));
+    fetch('/working-cars.json')
+      .then((res) => res.json())
+      .then((data) => setCards(shuffle(data)))
+      .catch((err) => console.error('Failed to load', err));
   }, []);
 
   const handleCardClick = (id) => {
